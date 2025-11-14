@@ -1,4 +1,4 @@
-# Hi, I'm Fleming Parmar�
+# Hi, I'm Fleming Parmar
 
 ## Software Developer | Angular | React | .NET | Node.js
 Mo.No.: 73834 19672
